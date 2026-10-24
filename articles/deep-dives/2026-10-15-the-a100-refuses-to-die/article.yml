@@ -1,0 +1,13 @@
+title: "The A100 Refuses to Die"
+slug: "the-a100-refuses-to-die"
+track: "deep-dive"             # brief | intro | deep-dive
+standard: targeted    # targeted | broad (see context/standards/)
+author: "Ansh Krishna"
+reviewer: ""
+status: published
+pitch_date: ""        # YYYY-MM-DD
+first_draft_due: ""   # YYYY-MM-DD
+publish_date: "2026-10-15"      # YYYY-MM-DD, matches folder name
+issue: null           # GitHub issue number
+current_draft: 0
+published_url: ""

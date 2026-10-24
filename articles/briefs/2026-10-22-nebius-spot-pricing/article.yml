@@ -1,0 +1,13 @@
+title: "Nebius Spot Pricing"
+slug: "nebius-spot-pricing"
+track: "brief"             # brief | intro | deep-dive
+standard: targeted    # targeted | broad (see context/standards/)
+author: ""
+reviewer: ""
+status: published
+pitch_date: "2026-10-21"        # YYYY-MM-DD
+first_draft_due: "2026-10-21"   # YYYY-MM-DD
+publish_date: "2026-10-22"      # YYYY-MM-DD, matches folder name
+issue: null           # GitHub issue number
+current_draft: 0
+published_url: ""

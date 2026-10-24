@@ -1,0 +1,13 @@
+title: "Compute-conomics I: The Physical Market"
+slug: "compute-conomics-i-the-physical-market"
+track: "intro"             # brief | intro | deep-dive
+standard: targeted    # targeted | broad (see context/standards/)
+author: ""
+reviewer: ""
+status: drafting
+pitch_date: "2026-10-19"        # YYYY-MM-DD
+first_draft_due: "2026-10-22"   # YYYY-MM-DD
+publish_date: "2026-10-26"      # YYYY-MM-DD, matches folder name
+issue: null           # GitHub issue number
+current_draft: 0
+published_url: ""

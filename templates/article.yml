@@ -1,0 +1,13 @@
+title: ""
+slug: ""
+track: ""             # brief | intro | deep-dive
+standard: targeted    # targeted | broad (see context/standards/)
+author: ""
+reviewer: ""
+status: pitched       # pitched | researching | drafting | in-review | final | published
+pitch_date: ""        # YYYY-MM-DD
+first_draft_due: ""   # YYYY-MM-DD
+publish_date: ""      # YYYY-MM-DD, matches folder name
+issue: null           # GitHub issue number
+current_draft: 0
+published_url: ""
